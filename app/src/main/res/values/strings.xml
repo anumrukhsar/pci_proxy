@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PCIProxy</string>
+    <string name="start_collecting_card">Start Collecting card</string>
+    <string name="get_alias">Get Alias</string>
+</resources>
